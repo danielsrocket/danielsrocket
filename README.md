@@ -12,8 +12,9 @@
 - ‎🍴 **[Orgfork](https://orgfork.com)** - Homebase for founders & DEVS to have a place to start their day from.
 - • **[Diddot](https://Diddot.app)** - Show that your app isn't dead💀, show your dedication and transparency!
 - 🤖 **[Ask AI That](https://askaithat.com)** - ai search engine which uses the free models.
-
-- **[????](https://askaithat.com)** - platform for devs and founders to ask questions, create blogs, and sell .MD files.
+- 🛋️ **[Chairmen](https://chairmen.app)** - build your own AI advisory board with public knowledge.
+  
+- 🦉 **[????](https://askaithat.com)** - platform for devs and founders to ask questions, create blogs, and sell .MD files.
 
 ## What keeps me bussy
 
