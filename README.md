@@ -14,7 +14,7 @@
 - 🤖 **[Ask AI That](https://askaithat.com)** - ai search engine which uses the free models.
 - 🛋️ **[Chairmen](https://chairmen.app)** - build your own AI advisory board with public knowledge.
   
-- 🦉 **[????](https://askaithat.com)** - platform for devs and founders to ask questions, create blogs, and sell .MD files.
+- 🦉 **[Quest of Us](https://questofus.com)** - platform for devs and founders to ask questions, create blogs, and sell .MD files.
 
 ## What keeps me bussy
 
