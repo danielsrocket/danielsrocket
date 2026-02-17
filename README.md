@@ -1,6 +1,7 @@
 # Welcome to Daniel's Rocket!
 
-🤖 **AI SaaS builder & YT guy** | 🦉Quest of us Founder + more**
+### About me
+AI SaaS builder & YT guy, with focus on improving every day both as a solo saas founder and as 
 
 ### Motto
 I build the tools for the solo saas billionairs of tomorrow!
