@@ -1,7 +1,7 @@
 # Welcome to Daniel's Rocket!
 
 ### About me
-AI SaaS builder & YT guy, with focus on improving every day both as a solo saas founder and as 
+AI SaaS builder & YT guy, with focus on improving as a human. 
 
 ### Motto
 I build the tools for the solo saas billionairs of tomorrow!
