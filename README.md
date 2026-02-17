@@ -13,6 +13,7 @@ I build the tools for the solo saas billionairs of tomorrow!
 - 🛋️ **[Chairmen](https://chairmen.app)** - build your own AI advisory board with public knowledge.
 - ✨ **[Kind Comments](https://kindcomments.com)** - One inbox for your mentions, and email with mood protection, fast replies and more!
 
+## Free AI
 🤖 **[Ask AI That](https://askaithat.com)** - ai search engine which uses the free models.
 
 
