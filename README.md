@@ -1,6 +1,6 @@
 # Welcome to Daniel's Rocket!
 
-🤖 **AI SaaS builder & YT guy** | 🫎&🦉 **Clear Moose & Quest of us Founder + more**
+🤖 **AI SaaS builder & YT guy** | 🦉Quest of us Founder + more**
 
 ### Motto
 I build the tools for the solo saas billionairs of tomorrow!
