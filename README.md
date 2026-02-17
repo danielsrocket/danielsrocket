@@ -11,10 +11,9 @@
 - ‎🍴 **[Orgfork](https://orgfork.com)** - Homebase for founders & DEVS to have a place to start their day from.
 - • **[Diddot](https://Diddot.app)** - Show that your app isn't dead💀, show your dedication and transparency!
 - 🛋️ **[Chairmen](https://chairmen.app)** - build your own AI advisory board with public knowledge.
-- 
 - ✨ **[Kind Comments](https://kindcomments.com)** - One inbox for your mentions, and email with mood protection, fast replies and more!
 
-- 🤖 **[Ask AI That](https://askaithat.com)** - ai search engine which uses the free models.
+🤖 **[Ask AI That](https://askaithat.com)** - ai search engine which uses the free models.
 
 
 ## What keeps me bussy
