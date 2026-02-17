@@ -3,7 +3,7 @@
 🤖 **AI SaaS builder & YT guy** | 🫎&🦉 **Clear Moose & Quest of us Founder + more**
 
 ### Motto
-**Build for the futurre of tomorrow" - I build tools for the solo saas billionairs of tomrrow!**
+I build the tools for the solo saas billionairs of tomorrow!
 
 ## Projects
 - 🦉 **[Quest of Us](https://questofus.com)** - platform for devs and founders to ask questions, create blogs, and promote their Saas.
