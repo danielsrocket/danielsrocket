@@ -26,5 +26,5 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [systems](https://)
+- [systems](https://questofus.com/systems)
 <!-- BLOG-POST-LIST:END -->
