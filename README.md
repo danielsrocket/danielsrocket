@@ -14,4 +14,5 @@ Build the future your want to see.
 - **building new open projects**
 - **Building the future of Ecommerce** 
 - **minimalism**
+- **Learning every day**
 
